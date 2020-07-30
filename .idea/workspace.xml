@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c5a72e0-1abe-40ec-afba-ce24d1978cf2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ey4IzpE5VHLqgTeb0dFpyDzXt8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Flutter/flutter/bin/cache/dart-sdk" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c5a72e0-1abe-40ec-afba-ce24d1978cf2" name="Default Changelist" comment="" />
+      <created>1595280422348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595280422348</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="593" y="305" width="438" height="421" key="FileChooserDialogImpl" timestamp="1595281955905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="593" y="305" width="438" height="421" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595281955905" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1595465857320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595465857320" />
+    <state x="96" y="130" width="1335" height="624" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1595465934537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="96" y="130" width="1335" height="624" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1595465934537" />
+    <state x="464" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1595465852346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="464" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595465852346" />
+  </component>
+</project>
